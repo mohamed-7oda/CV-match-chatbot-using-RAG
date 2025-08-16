@@ -166,5 +166,3 @@ Match CVs against a job description.
 ## 👨‍💻 Author
 
 Developed by **Mohamed Mahmoud**
-
-```
