@@ -1,4 +1,4 @@
-# 🤖 AI Recruiter Bot
+# 🤖 CV match ChatBot
 
 An AI-powered recruiter assistant that **matches job descriptions with candidate CVs**.  
 This project uses **FastAPI** as a backend for retrieval-augmented generation (RAG)  
