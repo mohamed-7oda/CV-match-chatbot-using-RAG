@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+streamlit
+requests
+uuid
+langchain
+langchain-cohere
+langchain-community
+langchain-google-genai
+chromadb
