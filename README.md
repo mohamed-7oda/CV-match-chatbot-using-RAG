@@ -44,8 +44,8 @@ and **Streamlit** as a frontend chatbot interface.
 
 ### 1️⃣ Clone the repo
 ```bash
-git clone https://github.com/your-username/ai-recruiter-bot.git
-cd ai-recruiter-bot
+git clone https://github.com/mohamed-7oda/CV-match-chatbot-using-RAG.git
+cd CV-match-chatbot-using-RAG
 ````
 
 ### 2️⃣ Create a virtual environment
